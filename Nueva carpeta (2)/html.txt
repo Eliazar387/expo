@@ -1,0 +1,33 @@
+<html>
+<head>
+		<meta charset="UTF-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		<meta
+			name="viewport"
+			content="width=device-width, initial-scale=1.0"
+		/>
+		<title>Tienda</title>
+</head>
+
+<body>
+<nav>
+  <ul>
+    <li><a href="#">Inicio</a></li>
+    <li><a href="#">Blog</a></li>
+    <li><a href="#">Manuales</a></li>
+    <li><a href="#">Artículos</a></li>
+    <li><a href="#">Ejemplos</a></li>
+    <li><a href="#">Videotutoriales</a></li>
+  </ul>
+  
+  <select>
+    <option value="#">Inicio</option>
+    <option value="#">Blog</option>
+    <option value="#">Manuales</option>
+    <option value="#">Artículos</option>
+    <option value="#">Ejemplos</option>
+    <option value="#">Videotutoriales</option>
+  </select>
+</nav>
+</body>
+</html>
